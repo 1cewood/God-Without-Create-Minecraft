@@ -7,11 +7,11 @@ The integration package has an official server provided by the author.
 整合包具有超过1w行CrT脚本魔改和作者纯手工打造的数据包。FTB任务线基本完成。  
 整合包具有作者提供的官方服务端。  
 # Attation 注意事项  
-1. Use Java17.  
-2. Do not distribute the integration package after the second modification, and do not commercialize the integration package.  
-3. It is forbidden to use modified but unmarked integration packages for video and other secondary creation, and the author does not provide technical support for any modified integration packages.  
-4. Some of the Chinese content of the module is unofficial self-made by the author, and it is forbidden to submit the author's Chinese content to any channel or secondary distribution.  
-5. Some moDs are not included in the encyclopedia, please refer to the downloaded client.  
+1.Use Java17.  
+2.Do not distribute the integration package after the second modification, and do not commercialize the integration package.  
+3.It is forbidden to use modified but unmarked integration packages for video and other secondary creation, and the author does not provide technical support for any modified integration packages.  
+4.Some of the Chinese content of the module is unofficial self-made by the author, and it is forbidden to submit the author's Chinese content to any channel or secondary distribution.  
+5.Some mods are not included in the encyclopedia, please refer to the downloaded client.  
 1.请使用Java17。  
 2.禁止对整合包进行二次修改后分发，禁止整合包商用。  
 3.禁止使用修改过但未标注的整合包进行视频等二次创作，作者不对任何修改后的整合包提供技术支持。  
