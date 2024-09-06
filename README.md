@@ -22,6 +22,8 @@ The latest version of the game is the 1.1 official version updated on September 
 # Download 下载链接  
 客户端和服务端 client-side and server-side  
 https://pan.baidu.com/share/init?surl=9A6oHPo6WcsyybHcvYsb4w&pwd=2048  
+警告：项目内文件仅为修改内容，不包含游戏本身！请在上方链接下载完整游戏！  
+Warning: The files in the project are modifications only and do not contain the game itself! Download the full game at the link above!  
 
 
 
