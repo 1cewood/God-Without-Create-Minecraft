@@ -16,7 +16,7 @@ The integration package has an official server provided by the author.
 2.禁止对整合包进行二次修改后分发，禁止整合包商用。  
 3.禁止使用修改过但未标注的整合包进行视频等二次创作，作者不对任何修改后的整合包提供技术支持。  
 4.部分模组汉化内容为作者非官方自制，禁止将作者的汉化提交至任何渠道或二次分发。  
-5.部分mod没有在百科收录，请以下载得到的客户端为准。
+5.部分mod没有在百科收录，请以下载得到的客户端为准。  
 The latest version of the game is the 1.1 official version updated on September 5.  
 目前游戏最新版为9月5日更新的1.1正式版。  
 # Download 下载链接  
